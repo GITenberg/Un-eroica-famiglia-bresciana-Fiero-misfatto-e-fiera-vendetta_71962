@@ -1,11 +1,16 @@
 _repo: Un-eroica-famiglia-bresciana-Fiero-misfatto-e-fiera-vendetta_71962
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71962-h/images/cover.jpg
 creator:
   author:
     agent_name: Bettoni, Paolo
     gutenberg_agent_id: '7666'
     url: http://www.gutenberg.org/2009/agents/7666
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71962#Un-eroica-famiglia-bresciana-Fiero-misfatto-e-fiera-vendetta
 gutenberg_issued: '2023-10-26'
 identifiers:
   gutenberg: '71962'
